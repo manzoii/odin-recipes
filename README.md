@@ -1,3 +1,3 @@
 # odin-recipes
-This recipe is for Nigerian style pounded yam
-this project should my bigginer html skills
+This recipe is for classic Nigerian foods
+this project should demonstrate my bigginer html skills
